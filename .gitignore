@@ -1,0 +1,25 @@
+# Build outputs
+build/
+*/build/
+Debug/
+Release/
+*.o
+*.a
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+
+# CubeMX / generated cruft
+*.launch
